@@ -58,7 +58,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratyushh0208?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
-    <img src="https://img.shields.io/badge/[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratyushh0208-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
+    <img src="https://img.shields.io/badge/LinkedIn-Pratyushh0208-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
   <a href="mailto:pratyushh0208@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-pratyushh0208%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
