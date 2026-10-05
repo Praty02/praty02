@@ -1,16 +1,145 @@
-## Hi there 👋
+# 👋 Hi, I'm PRATYUSH SHARMA
 
-<!--
-**Praty02/praty02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Data Analyst & Python Developer
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+Enthusiast;Python+%7C+PostgreSQL+%7C+Power+BI;Turning+Data+into+Insights;Business+Intelligence+Learner;Data+Driven+Problem+Solver&center=true&width=550&height=50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### 🐍 Programming Language
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🗄️ Database & SQL
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 📊 Data Analytics & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 🧩 Core Skills
+
+* 📊 Data Analysis
+* 🐍 Python Programming
+* 🐼 Pandas
+* 🔢 NumPy
+* 🗄️ PostgreSQL & SQL
+* 📈 Power BI
+* 📉 Microsoft Excel
+* 🧩 Data Structures & Algorithms
+* 💡 Problem Solving
+* 📊 Data Visualization
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratyushh0208?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+    <img src="https://img.shields.io/badge/[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratyushh0208-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
+  <a href="mailto:pratyushh0208@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-pratyushh0208%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praty02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff" height="170"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praty02&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praty02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praty02&theme=tokyo-night&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* 📊 Data Analytics
+* 🐍 Python
+* 🐼 Pandas & NumPy
+* 🗄️ PostgreSQL & SQL
+* 📈 Power BI
+* 📉 Microsoft Excel
+* 🧩 Data Structures & Algorithms
+* 🚀 Building Real-World Data Projects
+* 💻 Solving Problems on LeetCode
+* 🌱 Exploring Open Source
+
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech Student
+* 📊 Aspiring **Data Analyst**
+* 🐍 Learning and practicing **Python for Data Analytics**
+* 🗄️ Working with **SQL & PostgreSQL**
+* 📈 Learning **Power BI** for data visualization and business intelligence
+* 📉 Improving my **Microsoft Excel** skills for data analysis
+* 🐼 Exploring **Pandas & NumPy**
+* 🧩 Practicing **Data Structures & Algorithms with Python**
+* 🚀 Building practical and real-world data projects
+* 🌱 Exploring **Open Source**
+* 🔥 Preparing for **placements and technical interviews**
+
+---
+
+## 📈 My Learning Journey
+
+```text
+Python                 █████████████████░░░   Learning & Practicing
+SQL / PostgreSQL       ████████████████░░░░   Learning & Practicing
+Pandas & NumPy         █████████████░░░░░░░   Learning & Practicing
+Power BI               ████████████░░░░░░░░   Learning
+Excel                  █████████████░░░░░░░   Learning
+DSA                    ███████████░░░░░░░░░   Practicing
+Data Analytics         ███████████████░░░░░   Learning & Building
+```
+
+---
+
+## 💡 My Goal
+
+My goal is to become a **skilled Data Analyst** by strengthening my Python and SQL fundamentals, improving my data visualization and analytical skills, working with real-world datasets, and building practical projects that turn raw data into meaningful insights.
+
+> **"Learn. Analyze. Build. Improve. Repeat."**
+
+---
+
+## ⭐ Thanks for Visiting My Profile!
+
+<p align="center">
+  <b>Let's connect, learn and turn data into meaningful insights! 📊🚀</b>
+</p>
